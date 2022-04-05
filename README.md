@@ -1,6 +1,6 @@
 #  <h1>About the project</h1>
 
-At the moment, this project is a Random sandwich app.
+This project is a Random sandwich app.
 
 # Setting up the Environment
 
@@ -35,7 +35,6 @@ At the moment, this project is a Random sandwich app.
 <br>
 
 * You should see the home page of the website
-* Now you can start creating your own review 
 
 <br>
 
